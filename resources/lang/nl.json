@@ -1,0 +1,68 @@
+{
+  "Login" : "Inloggen",
+  "Register" : "Aanmelden",
+  "E-Mail Address" : "E-Mail adres",
+  "Password" : "Wachtwoord",
+  "Remember Me" : "Onthoud Mij",
+  "Change the language" : "Verander de taal",
+
+  "Accounts" : "Rekeningen",
+  "Making a Tikko" : "Tikko aanmaken",
+  "Paying a Tikko" : "Tikko betalen",
+  "Group" : "Groep",
+  "Groups" : "Groepen",
+
+  "Add" :  "Toevoegen",
+  "Edit" :  "Wijzigen",
+  "Update" : "Bijwerken",
+  "Delete" :  "Verwijderen",
+  "Details" : "Details",
+  "Overview" : "Overzicht",
+  "Back" : "Terug",
+  "Submit" : "Versturen",
+
+  "Bank Accounts" :  "Bankrekeningen",
+  "New bank account" :  "Nieuwe bankrekening",
+  "Go to bank accounts" :  "Ga naar bankrekeningen",
+  "Bank name" :  "Bank naam",
+  "Bank number" :  "Bank nummer",
+  "Balance" : "Saldo",
+
+  "Name" : "Naam",
+  "Amount" : "Bedrag",
+  "Currency" : "Valuta",
+  "Note" : "Notitie",
+  "Date" : "Datum",
+  "Reciever" : "Ontvanger",
+  "Payment from" : "Betaling van",
+  "Pay" : "Betalen",
+  "Description" : "Beschrijving",
+
+  "Euro" : "Euro",
+  "British Pound": "Britse Pond",
+  "United States Dollar": "Verenigde Staten Dollar",
+
+  "Prepare Payment": "Betaling voorbereiden",
+
+  "Made Tikkos" : "Gemaakte Tikkos",
+  "Send Tikkie to" : "Verstuur Tikkie naar",
+  "Search for names" : "Zoek naar namen",
+  "Type a name" : "Typ een naam",
+
+  "Tikkos to pay" : "Te betalen Tikkos",
+  "Send Tikko to 1 person" : "Stuur Tikko naar 1 persoon",
+  "Send Tikko to group" : "Stuur Tikko naar een groep",
+
+  "New group" : "Nieuwe groep aanmaken",
+  "Adding group" : "Groep aanmaken",
+  "Group name" : "Groeps naam",
+  "Group members" : "Groepsleden",
+  "Show more" : "Meer zien",
+  "Adding people" : "Mensen toevoegen",
+  "People" : "Mensen",
+
+  "Home" : "Hoofdpagina",
+  "You have successfully logged in!" : "U bent succesvol ingelogd!"
+
+
+}
